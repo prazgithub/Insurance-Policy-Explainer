@@ -1,0 +1,20 @@
+[
+  {
+    "question": "What is the waiting period for pre-existing diseases?",
+    "expected": "Write the answer you found in the PDF",
+    "page": 0,
+    "source": "data/health.pdf"
+  },
+  {
+    "question": "How do I file a claim?",
+    "expected": "Write the answer you found in the PDF",
+    "page": 0,
+    "source": "data/health.pdf"
+  },
+  {
+    "question": "What is the capital of France?",
+    "expected": "I could not find this in the policy.",
+    "page": 0,
+    "source": "none"
+  }
+]

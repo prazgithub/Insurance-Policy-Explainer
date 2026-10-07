@@ -46,6 +46,14 @@ streamlit run app.py
 
 Both are publicly available policy wording documents from the respective insurers' official websites.
 
+## Output
+
+Query: *"How do I file a claim?"*
+
+![Answer — claim process details with deadlines and required documents](assets/output-1.png)
+
+![Sources — relevant chunks from health.pdf with page references](assets/output-2.png)
+
 ## Known limits
 
 - **Tables and structured data** in PDFs are often extracted as garbled text; clause numbers and benefit tables may be misread.
